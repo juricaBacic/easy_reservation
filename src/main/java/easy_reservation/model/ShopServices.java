@@ -43,6 +43,7 @@ public class ShopServices implements Serializable {
         return shop;
     }
 
+
     public void setShop(Shop shop) {
         this.shop = shop;
     }
